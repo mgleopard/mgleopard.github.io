@@ -60,7 +60,6 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="Untitled design.png" alt="Matthew Leonard">
             <h1>Matthew Leonard</h1>
             <p>Beaufort, SC 29906 | m.g.lepard@gmail.com | 803-842-1499</p>
             <p><a href="https://www.linkedin.com/in/matthew-g-leonard/">LinkedIn Profile</a></p>
@@ -96,13 +95,6 @@
                 <li>Monitor and maintain network servers, VPN gateways, and intrusion detection systems.</li>
                 <li>Perform system upgrades and maintain backups to safeguard data integrity.</li>
                 <li>Provide expert IT support and troubleshoot system issues ensuring minimal downtime.</li>
-            </ul>
-            <h3>Benefit Specialist - Wagner Agencies</h3>
-            <p>09/01/2020 – 12/01/2020 | Charlotte NC</p>
-            <ul>
-                <li>Utilized upselling techniques and prospecting to achieve 140% of monthly sales quotas.</li>
-                <li>Managed client consultations to develop comprehensive protection plans.</li>
-                <li>Cross-sold and upsold additional products to enhance client coverage.</li>
             </ul>
             <h3>Cyber Systems Networking Supervisor - U.S.M.C.</h3>
             <p>05/01/2014 – 09/16/2020 | Parris Island SC</p>
